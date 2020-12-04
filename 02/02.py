@@ -68,4 +68,3 @@ for line in data:
 
 print(f'Part 2: {num_valid}')
 
-# %%
